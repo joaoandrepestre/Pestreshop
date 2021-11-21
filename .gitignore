@@ -1,5 +1,8 @@
 out/
 saves/
+bin/
+dist/
 *.jpg
 *.mov
 *.mp4
+*.zip
